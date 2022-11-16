@@ -2,6 +2,7 @@
 FROM jupyter/scipy-notebook:6cc4a8596a0b
 
 RUN python3 -m pip install --no-cache-dir notebook jupyterlab
+RUN python3 -m pip install ipyleaflet
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
