@@ -13,3 +13,8 @@ The APIs are gaurded by authentication server, so all the REST calls require log
 
 ## Notebook Live Run:
 https://mybinder.org/v2/gh/WorldCereal/ewoc_rdm_demo_api/main
+
+## Special Thanks to Binder(https://mybinder.org/) for environment.
+![image](https://user-images.githubusercontent.com/52455330/202429516-eaf62c01-b359-41be-8763-1a4a415bfe7d.png)
+
+
