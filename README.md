@@ -1,20 +1,36 @@
 
 ## Usage Of Reference Data Module
 
-This notebook demonstrates the usage of Worldcereal Reference data module data APIs
+This notebook demonstrates the usage of Worldcereal Reference data module APIs
 
-The project website: https://esa-worldcereal.org/en
+Project website: https://esa-worldcereal.org/en
 
-The Worlcereal Reference Data Module website: https://rdm.cloud.esa-worldcereal.org/
+Worlcereal Reference Data Module website: https://rdm.cloud.esa-worldcereal.org/
 
-The complete documentation of reference data APIs can be found as swagger publish here - https://rdmapi.cloud.esa-worldcereal.org/swagger/index.html
+Complete documentation of reference data APIs can be found as swagger publish here - https://rdmapi.cloud.esa-worldcereal.org/swagger/index.html
 
 The APIs are gaurded by authentication server, so all the REST calls require login. In this notebook demo user 'demo_rdm' is used to fetch the authentication token. Users are requested to get their own login by sending mail to moderator-worldcereal@iiasa.ac.at. Once you have your credentials ready replace in the below code for fetching authentication tokens.
 
 ## Notebook Live Run:
 https://mybinder.org/v2/gh/WorldCereal/ewoc_rdm_demo_api/main
 
-## Special Thanks to Binder(https://mybinder.org/) for environment.
+## Special Thanks to Binder(https://mybinder.org/) for the environment.
 ![image](https://user-images.githubusercontent.com/52455330/202429516-eaf62c01-b359-41be-8763-1a4a415bfe7d.png)
+
+
+# Code
+Refer rdmApiDemo.ipynb to find all the example to call the APIs 
+
+## Search Bbox
+![image](https://user-images.githubusercontent.com/52455330/202476397-6733a3eb-f34f-4a5d-8bae-14a7b0bbb25a.png)
+
+## Collection Search results
+![image](https://user-images.githubusercontent.com/52455330/202476783-424fdd0e-c769-4c1a-842f-11b378308da9.png)
+
+## Item Search results for France Collection, displaying first 500 geojson feature items
+![image](https://user-images.githubusercontent.com/52455330/202477201-c30ffb1b-b5c7-4cd8-bdc4-191808955bb9.png)
+
+Run this notebook to see all the results using the link - https://mybinder.org/v2/gh/WorldCereal/ewoc_rdm_demo_api/main
+
 
 
