@@ -1,7 +1,7 @@
 
 ## Usage Of Reference Data Module
 
-This notebook demonstrates the usage of Worldcereal Reference data module APIs
+rdmApiDemo.ipynb notebook demonstrates the usage of Worldcereal Reference data module APIs
 
 Project website: https://esa-worldcereal.org/en
 
