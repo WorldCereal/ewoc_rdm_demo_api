@@ -3,11 +3,11 @@
 
 rdmApiDemo.ipynb notebook demonstrates the usage of Worldcereal Reference data module APIs
 
-Project website: https://esa-worldcereal.org/en
+Project website: https://worldcereal-rdm.geo-wiki.org/, https://esa-worldcereal.org/en
 
 Worlcereal Reference Data Module website: https://rdm.cloud.esa-worldcereal.org/
 
-Complete documentation of reference data APIs can be found as swagger publish here - https://rdmapi.cloud.esa-worldcereal.org/swagger/index.html
+Complete documentation of reference data APIs can be found as swagger publish here - https://petstore.swagger.io/?url=https://raw.githubusercontent.com/WorldCereal/ewoc_rdm_demo_api/main/swagger.json
 
 The APIs are gaurded by authentication server, so all the REST calls require login. In this notebook demo user 'demo_rdm' is used to fetch the authentication token. Users are requested to get their own login by sending mail to moderator-worldcereal@iiasa.ac.at. Once you have your credentials ready replace in the below code for fetching authentication tokens.
 
