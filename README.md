@@ -5,7 +5,7 @@ rdmApiDemo.ipynb notebook demonstrates the usage of Worldcereal Reference data m
 
 Project website: https://worldcereal-rdm.geo-wiki.org/, https://esa-worldcereal.org/en
 
-Worlcereal Reference Data Module website: [https://ewco-rdm-ui.iiasa.ac.at/](https://ewoc-rdm-ui.iiasa.ac.at)
+Worlcereal Reference Data Module website: [https://rdm.esa-worldcereal.org/](https://rdm.esa-worldcereal.org/)
 
 Complete documentation of reference data APIs can be found as swagger publish here - https://ewoc-rdm-api.iiasa.ac.at/swagger/index.html
 
